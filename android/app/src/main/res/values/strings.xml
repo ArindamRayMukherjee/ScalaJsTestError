@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DanceApp</string>
+    <string name="facebook_app_id">476889130690065</string>
+    <string name="fb_auto_applink_scheme">fb476889130690065</string>
+    <string name="facebook_client_token">183f4cf5246a2fa4a5d0e8c262fa1417</string>
+    <string name="fb_login_protocol_scheme">476889130690065</string>
+</resources>

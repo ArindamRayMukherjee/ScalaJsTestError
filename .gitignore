@@ -1,0 +1,12 @@
+/node_modules
+/ios/pods
+/ios/build
+/android/app/build
+/android/.gradle
+/.idea
+/target
+/project/target
+/project/project/target
+/.bsp
+/danceapp.ipr
+/danceapp.iws

@@ -1,0 +1,11 @@
+{
+  "name": "DanceApp",
+  "orientation": "default",
+  "displayName": "DanceApp",
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
