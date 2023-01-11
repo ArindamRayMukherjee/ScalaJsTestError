@@ -7,6 +7,8 @@ import slinky.native._
 import scala.scalajs.js.Dynamic.literal
 import slinky.core.facade.ReactElement
 
+import java.util.UUID
+
 @react class App extends Component {
   type Props = Unit
   type State = Unit
@@ -40,7 +42,11 @@ import slinky.core.facade.ReactElement
       ),
       Text(
         style = literal(fontSize = 30, color = "red")
-      )(s"Hello, Slinky!")
+      )(s"Hello, Slinky!"),
+      Text(
+        style = literal(fontSize = 30, color = "red")
+      )(s"Printing a new UUID - ${UUID.randomUUID()}")
+
     )
   }
 
